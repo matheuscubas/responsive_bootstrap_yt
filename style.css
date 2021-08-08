@@ -2,3 +2,7 @@ body {
   width: 80%;
   height: 100%;
 }
+
+.info-text {
+  font-size:small;
+}
